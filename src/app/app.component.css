@@ -1,3 +1,14 @@
+div#test-container{
+  display: grid;
+grid-template-columns: 60% auto;  
+
+}
+ .d1{background:LightSkyBlue;}
+  .d2{background:LightSalmon;}
+  .d3{background:PaleTurquoise;}
+  .d4{background:LightPink;}
+  .d5{background:PaleGreen;}
+
 #grid-container{
   display: grid;
 }
